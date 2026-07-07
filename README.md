@@ -4,6 +4,27 @@ A full-featured blog application built with FastAPI, PostgreSQL, and Jinja2 temp
 
 ---
 
+## Screenshots
+
+**Home feed — dark mode**
+![Home feed dark mode](image.png)
+
+**Home feed — light mode**
+![Home feed light mode](image-1.png)
+
+**Post with comments and likes**
+![Post with comments and likes](image-2.png)
+
+**Account settings — profile picture upload, password change**
+![Account settings](image-3.png)
+![Account settings bottom](image-4.png)
+
+**Register and Login**
+![Register page](image-5.png)
+![Login page](image-6.png)
+
+---
+
 ## Features
 
 - **User authentication** — register, login, logout via JWT (HS256) with argon2 password hashing
